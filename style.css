@@ -1,0 +1,21 @@
+/*
+Theme Name: Dispatch
+Theme URI: https://github.com/yourname/dispatch-theme
+Author: Your Name
+Author URI: https://yoursite.com
+Description: A bold, colorful editorial news theme with custom scroll animations and WordPress REST API integration. Inspired by independent digital media aesthetics.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: dispatch
+Tags: news, blog, editorial, custom-colors, custom-menu, featured-images, full-width-template, sticky-post, threaded-comments
+*/
+
+/*
+  This file intentionally contains only the theme header above.
+  All styles live in css/main.css and are enqueued via functions.php.
+  WordPress requires style.css to exist with the theme header comment.
+*/
